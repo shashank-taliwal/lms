@@ -1,0 +1,25 @@
+{
+  "name": "the-1000-friends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank-taliwal/the-1000-friends.git"
+  },
+  "author": "seven-friends'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank-taliwal/the-1000-friends/issues"
+  },
+  "homepage": "https://github.com/shashank-taliwal/the-1000-friends#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
